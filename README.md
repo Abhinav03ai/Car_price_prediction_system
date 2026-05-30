@@ -107,8 +107,4 @@ http://127.0.0.1:5000/
 
 **Abhinav**
 
-B.Tech in Artificial Intelligence & Data Science
-
-## 📜 License
-
-This project is open source and available under the MIT License.
+B.Tech in Artificial Intelligence
