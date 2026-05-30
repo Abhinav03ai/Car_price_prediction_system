@@ -4,6 +4,16 @@
 
 A Machine Learning-powered web application that predicts the selling price of used cars based on key vehicle attributes such as company, model, manufacturing year, fuel type, and kilometers driven.
 
+⚠️ Important Note
+The model was trained on a used car dataset collected in 2021.
+Therefore:
+All predicted prices correspond to 2021 market conditions.
+Actual car prices in the current market may differ due to:
+Inflation
+Changes in demand and supply
+Brand pricing strategies
+The prediction should be interpreted as an estimate based on 2021 car pricing trends.
+
 ## 📌 Overview
 
 This project uses a Linear Regression model trained on a cleaned used-car dataset to estimate the market price of a car. The model is deployed through a Flask web application that allows users to enter vehicle details and receive an instant price prediction.
