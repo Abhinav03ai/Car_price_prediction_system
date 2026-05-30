@@ -1,4 +1,6 @@
 # 🚗 Car_price_prediction_system
+<img width="1143" height="728" alt="car-price-predictor" src="https://github.com/user-attachments/assets/abfc54d6-d93d-426a-a0a9-6c4e1bc99656" />
+
 
 A Machine Learning-powered web application that predicts the selling price of used cars based on key vehicle attributes such as company, model, manufacturing year, fuel type, and kilometers driven.
 
